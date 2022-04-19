@@ -1,0 +1,8 @@
+rootProject.name = 'SeleniumLV1'
+include 'PageObjects'
+include 'DataObjects'
+include 'TestCases'
+include 'Common'
+include 'Executables'
+include 'target'
+
